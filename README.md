@@ -22,6 +22,23 @@ Traffic_Light_v0.1 is a microcontroller-based project written in C for embedded 
 ## Visual Representation
 See the attached images for a visual representation of the project in action.
 
+Step 1.
+
+
+![420027404_1562175541200196_6454472126878246561_n](https://github.com/Adrianq88/Traffic_Light_v0.1/assets/118317225/0fef28f1-db48-4e85-8153-6f3b17c06be9)
+
+Step 2.
+
+
+![417231885_904350977793151_995901739622007417_n](https://github.com/Adrianq88/Traffic_Light_v0.1/assets/118317225/35930c40-6094-4b77-b432-ca2eac6ab246)
+
+Step 3.
+
+
+![417190137_1416201039022111_6747066633244295798_n](https://github.com/Adrianq88/Traffic_Light_v0.1/assets/118317225/2553b5c1-a761-45cf-8230-4f5e3d0aaa4e)
+
+
+
 ## License
 This project is released under the GNU General Public License v3.0 - see the LICENSE.md file for details.
 
