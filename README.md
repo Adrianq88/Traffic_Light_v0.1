@@ -57,5 +57,5 @@ This project is released under the GNU General Public License v3.0 - see the LIC
 
 
 ## Authors
-Authors: adrianq88,hubklo212
+Authors: adrianq88 , hubklo212
 
