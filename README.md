@@ -56,6 +56,6 @@ Step 3.
 This project is released under the GNU General Public License v3.0 - see the LICENSE.md file for details.
 
 
-## Author
-Author: Adrian Predki
-Contact: apredki9@gmail.com
+## Authors
+Authors: adrianq88,hubklo212
+
